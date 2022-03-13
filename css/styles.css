@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(https://wallpaperaccess.com/full/349967.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    background-size: cover;
+    overflow-x: hidden;
+}
+
+.main{
+    background: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7));
+}
+
+#title{
+    font-family: 'Montserrat-Black', sans-serif;
+    font-weight: bold;
+}
+
+
+
+.btn{
+    font-family: 'Montserrat-Black', sans-serif;
+    font-weight: bold;
+    display: block;
+    margin: 30px auto 30px auto;
+}
